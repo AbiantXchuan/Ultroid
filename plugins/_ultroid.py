@@ -1,9 +1,9 @@
 # Ultroid - UserBot
 # Copyright (C) 2021 TeamUltroid
 #
-# This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
+# This file is a part of < https://github.com/AbiantXchuan/dUltroid/ >
 # PLease read the GNU Affero General Public License in
-# <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
+# <https://www.github.com/AbiantXchuan/Ultroid/blob/main/LICENSE/>.
 
 from telethon.errors import (
     BotMethodInvalidError,
