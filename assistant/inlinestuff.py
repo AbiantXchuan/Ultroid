@@ -21,8 +21,8 @@ from . import *
 
 SUP_BUTTONS = [
     [
-        Button.url("• Repo •", url="https://github.com/TeamUltroid/Ultroid"),
-        Button.url("• Support •", url="t.me/UltroidSupport"),
+        Button.url("• Repo •", url="https://github.com/AbiantXchuan/Ultroid"),
+        Button.url("• Support •", url="t.me/abiantInherexRSKA"),
     ],
 ]
 
@@ -154,7 +154,7 @@ async def repo(e):
             title="Ultroid Userbot",
             description="Userbot | Telethon",
             thumb=wb(ultpic, 0, "image/jpeg", []),
-            text="• **ULTROID USERBOT** •",
+            text="• **ABIANTxCHUAN ULTRO** •",
             buttons=SUP_BUTTONS,
         ),
     ]
